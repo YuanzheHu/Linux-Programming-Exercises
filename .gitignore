@@ -18,7 +18,10 @@ Makefile
 *.dylib
 *.dll
 *.exe
+*.out
 fileinfo
+my_argparser/fileinfo
+minicloc/minicloc
 
 # Debug symbols and logs
 *.dSYM/
